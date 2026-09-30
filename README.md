@@ -1,11 +1,16 @@
 # 💫 About Me:
 
-👋 Hey, I'm **Aslam Shaikh**<br><br>
-💻 I'm a Computer Science & Engineering student and aspiring **Software Engineer** who enjoys turning ideas into real-world applications.<br><br>
-🚀 I'm passionate about **full-stack development, problem-solving, and building practical projects**.<br><br>
-🛠️ Currently strengthening my skills in **Java, JavaScript, React, Node.js, SQL, and databases** while exploring AI-powered applications.<br><br>
-📚 I believe in **learning by building**, experimenting with new technologies, and continuously improving my skills.<br><br>
-⚡ **Code. Learn. Build. Repeat.**
+👋 Hey, I'm **Aslam**<br><br>
+
+💻 **Developer | Problem Solver | Tech Enthusiast**<br><br>
+
+🚀 I love turning ideas into **real products** — from writing the first line of code to making things actually work.<br><br>
+
+🧠 Currently exploring **Java, JavaScript, React, Node.js, SQL & Full-Stack Development** while constantly leveling up my problem-solving skills.<br><br>
+
+🔥 I enjoy building projects, breaking things, figuring out why they broke, and making them better.<br><br>
+
+🎯 **Learn → Build → Break → Fix → Repeat.**
 
 
 ## 🌐 Socials:
