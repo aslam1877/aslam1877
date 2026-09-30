@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀 Hey, I'm Aslam<br><br>I'm a developer who loves turning ideas into reality through code.<br>I enjoy creating clean, efficient, and scalable solutions while constantly learning new technologies.<br><br>💡 Currently working on:<br><br>* Innovative projects like Roomify (2D → 3D conversion)<br>* Improving my skills in full-stack development<br><br>⚡ What drives me:<br><br>* Building useful and impactful products<br>* Learning something new every day<br>* Solving real-world problems with technology<br><br>🔥 "Code. Learn. Build. Repeat."<br>
+
+👋 Hey, I'm **Aslam Shaikh**<br><br>
+💻 I'm a Computer Science & Engineering student and aspiring **Software Engineer** who enjoys turning ideas into real-world applications.<br><br>
+🚀 I'm passionate about **full-stack development, problem-solving, and building practical projects**.<br><br>
+🛠️ Currently strengthening my skills in **Java, JavaScript, React, Node.js, SQL, and databases** while exploring AI-powered applications.<br><br>
+📚 I believe in **learning by building**, experimenting with new technologies, and continuously improving my skills.<br><br>
+⚡ **Code. Learn. Build. Repeat.**
 
 
 ## 🌐 Socials:
