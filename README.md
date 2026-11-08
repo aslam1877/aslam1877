@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aslam-shaikh-3a603b320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aslamshaikh2057@gmail.com) [![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://aslam-shaikh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aslam-shaikh-3a603b320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aslamshaikh2057@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?logo=vercel&logoColor=white)](https://aslam-shaikh.vercel.app/)
 
 
 
